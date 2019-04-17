@@ -11,8 +11,6 @@ const map = new mapboxgl.Map({
   pitch: 40.5
 })
 
-const DATA_URL =
-  'https://raw.githubusercontent.com/uber-common/deck.gl-data/master/examples/3d-heatmap/heatmap-data.csv'
 const OPTIONS = ['radius', 'coverage', 'upperPercentile']
 const COLOR_RANGE = [
   [1, 152, 189],
@@ -37,7 +35,7 @@ map.on('load', () => {
   hexagonLayer = new MapboxLayer({
     type: HexagonLayer,
     id: 'heatmap',
-    data: d3.csv(DATA_URL),
+    data: d3.csv('./heatmap-data.csv'),
     radius: 1000,
     coverage: 1,
     upperPercentile: 100,
