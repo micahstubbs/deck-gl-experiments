@@ -1,4 +1,4 @@
-A map of Road Accidents in UK [data source](https://data.gov.uk/dataset/cb7ae6f0-4be6-4935-9277-47e5ce24a11f/road-safety-data)
+A map of Road Accidents in UK | [data source](https://data.gov.uk/dataset/cb7ae6f0-4be6-4935-9277-47e5ce24a11f/road-safety-data)
 
 ---
 
