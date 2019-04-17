@@ -1,16 +1,18 @@
-A map of Road Accidents in UK | [data source](https://data.gov.uk/dataset/cb7ae6f0-4be6-4935-9277-47e5ce24a11f/road-safety-data)
+A map of Road Accidents in UK | [data source](https://data.gov.uk/dataset/cb7ae6f0-4be6-4935-9277-47e5ce24a11f/road-safety-data)  
 
 ---
 
-this iteration moves the controls to the North Sea.  It also gives the controls a darker background and aligns the text.
+this iteration moves the controls to the North Sea.  It also gives the controls a darker background and aligns the text.  
 
 ---
 
-an iteration that makes the code nice to work with, for my personal definition of nice.
+an iteration that makes the code nice to work with, for my personal definition of nice.  
 
-- js in an `index.js` file
-- Prettier format js
-- Prettier format html
-- use local csv data
+- js in an `index.js` file  
+- Prettier format js  
+- Prettier format html  
+- use local csv data  
 
-an iteration on the [deck.gl + Mapbox HexagonLayer Example](https://bl.ocks.org/Pessimistress/1a4f3f5eb3b882ab4dd29f8ac122a7be) from [@cxiaoji](https://twitter.com/cxiaoji)
+an iteration on the [deck.gl + Mapbox HexagonLayer Example](https://bl.ocks.org/Pessimistress/1a4f3f5eb3b882ab4dd29f8ac122a7be) from [@cxiaoji](https://twitter.com/cxiaoji)  
+
+in github repo form at https://github.com/micahstubbs/deck-gl-experiments/tree/master/hexagon-layer/02    
