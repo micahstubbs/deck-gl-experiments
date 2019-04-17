@@ -1,4 +1,4 @@
-this iteration adjusts the color of the legend and moves it to the North Sea.
+this iteration moves the controls to the North Sea.  It also gives the controls a darker background and aligns the text.
 
 ---
 
